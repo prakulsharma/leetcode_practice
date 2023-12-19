@@ -1,0 +1,16 @@
+# Install the course conda environment with the following command:
+# conda env create -f env-dsci-571.yaml
+# Once you install it, you should be able to see it in your Jupyter Lab. 
+# If not, check the documentation here: https://ipython.readthedocs.io/en/stable/install/kernel_install.html
+name: 'leetcode'
+channels:
+    - conda-forge
+    - anaconda
+    - defaults
+dependencies:
+    - python==3.10
+    - ipykernel 
+    - requests>=2.24.0
+    - ipython
+    - jinja2
+    - pip>=23.2.1 
