@@ -1,6 +1,6 @@
-# LeetCode 75
+# LeetCode Practice
 
-Solutions for LeetCode 75 in Python.
+Solutions for LeetCode questions in Python.
 
 To make an environment using conda:
 
